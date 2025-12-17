@@ -1,1 +1,1 @@
-# ML-Project-3-House-Prediction
+# ML-Project-3-House-Price-Prediction
