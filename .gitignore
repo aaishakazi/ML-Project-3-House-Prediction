@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDE Settings (PyCharm / VS Code)
+.idea/
+.vscode/
+*.iml
+*.xml
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# OS Specific files
+.DS_Store
+Thumbs.db
